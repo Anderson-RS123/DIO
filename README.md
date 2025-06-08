@@ -20,3 +20,10 @@ Com a explicação e com a utilização das ferramentas utilizadas, como o chatG
 Consegui aprender novas formas de utilização do excel, e também saber como utilizar e conhecer as funcionalidades do chatGPT pago, para poder utilizar
 em atividades mais complexas no futuro. E com o chatGPT gratuito, consegui utiizá-lo de maneira mais otimizada. Utilizaei arquivos de dados de vendas que eu mesmo 
 criei para essa atividade. 
+
+
+# Atividade: Criação de um código de verificação de bandeiras de cartão. 
+
+Eu utilizei o Copilot no VSCode, passando o seguinte prompt: Você disse:
+crie um algoritmo Luhn Algorithm em python, com expressões regulares para verificar se o número passado é de uma das seguintes bandeiras de cartões de créditos: Mastercard, Visa 16 Dígitos, American Express, Dinners club, Discover, EnRoute, JCB, Voyager, HiperCard, Aura.
+Consegui obter um resultado satisfatório com esse prompt.
