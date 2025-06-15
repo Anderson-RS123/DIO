@@ -27,3 +27,8 @@ criei para essa atividade.
 Eu utilizei o Copilot no VSCode, passando o seguinte prompt: Você disse:
 crie um algoritmo Luhn Algorithm em python, com expressões regulares para verificar se o número passado é de uma das seguintes bandeiras de cartões de créditos: Mastercard, Visa 16 Dígitos, American Express, Dinners club, Discover, EnRoute, JCB, Voyager, HiperCard, Aura.
 Consegui obter um resultado satisfatório com esse prompt.
+
+
+# Atividade: Transcrisção de texto em áudio e análise de sentimento.
+
+Após alguns testes realizados no Microsoft Azure, pude perceber da utilidade dessas funcionalidades para o meu dia a dia. Obtive um bom resultado com os testes realizados, com textos mais elaborados, e a IA acertou com precisão.
