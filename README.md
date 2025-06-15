@@ -32,3 +32,8 @@ Consegui obter um resultado satisfatório com esse prompt.
 # Atividade: Transcrisção de texto em áudio e análise de sentimento.
 
 Após alguns testes realizados no Microsoft Azure, pude perceber da utilidade dessas funcionalidades para o meu dia a dia. Obtive um bom resultado com os testes realizados, com textos mais elaborados, e a IA acertou com precisão.
+
+
+# Atividade de reconhecimento de palavras de documentos.
+
+Percebi que é um pouco demorado para realizar essa atividade, pois precisamos configurar 3 soluções da Azure. Em relação ao reconhecimento do texto da ia, percebi que pode ser útil no meu dia a dia, facilitando e agilizando o processo de busca de dados em arquivos.
