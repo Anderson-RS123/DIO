@@ -37,3 +37,8 @@ Após alguns testes realizados no Microsoft Azure, pude perceber da utilidade de
 # Atividade de reconhecimento de palavras de documentos.
 
 Percebi que é um pouco demorado para realizar essa atividade, pois precisamos configurar 3 soluções da Azure. Em relação ao reconhecimento do texto da ia, percebi que pode ser útil no meu dia a dia, facilitando e agilizando o processo de busca de dados em arquivos.
+
+
+# Atividade: Conhecendo o Microsoft Copilot.
+
+Eu já conhecia o Microsoft Copilot, e utilizo no meu dia a dia, tanto para dúvias gerais, desenvolvimento de código e geração de imagens.
